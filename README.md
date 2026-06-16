@@ -1,81 +1,123 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Atiksh</h1>
+# 👋 Hey, I'm Atiksh
 
-<h3>💻 Student Developer | 🚀 Future Full-Stack Developer</h3>
+### 💻 Student Developer | 🚀 Future Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer+🐍;HTML+%26+CSS+Designer+🎨;JavaScript+Learner+⚡;Building+Cool+Projects+🚀;Always+Learning+🧠" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer+🐍;HTML+%26+CSS+Designer+🎨;JavaScript+Learner+⚡;Building+Cool+Projects+🚀" />
 
 </div>
 
-<br>
+---
 
-## 🌟 About Me
+# 📑 Navigation
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-- 🎓 Student Developer
-- 🌱 Currently learning **Python, HTML, CSS, and JavaScript**
-- 🚀 Building projects and improving every day
-- 💡 Passionate about coding and technology
-- 🎯 Goal: Become a Full-Stack Developer
-
-<br><br>
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
-</p>
+- [👨‍💻 About Me](#-about-me)
+- [🛠️ Skills](#️-skills)
+- [📊 Developer Dashboard](#-developer-dashboard)
+- [🚀 Projects](#-projects)
+- [🏆 Achievements](#-achievements)
+- [🎯 Future Goals](#-future-goals)
+- [📬 Contact](#-contact)
 
 ---
 
-## 📊 Developer Dashboard
+# 👨‍💻 About Me
+
+Hello! I'm **Atiksh**, a student developer passionate about coding and technology.
+
+- 🌱 Learning Python, HTML, CSS & JavaScript
+- 🚀 Building projects and experimenting with ideas
+- 💡 Interested in software and web development
+- 🎯 Working toward becoming a Full-Stack Developer
+
+---
+
+# 🛠️ Skills
+
+<table>
+<tr>
+<td>Python 🐍</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
+<tr>
+<td>HTML 🌐</td>
+<td>⭐⭐⭐⭐☆</td>
+</tr>
+<tr>
+<td>CSS 🎨</td>
+<td>⭐⭐⭐☆☆</td>
+</tr>
+<tr>
+<td>JavaScript ⚡</td>
+<td>⭐⭐⭐☆☆</td>
+</tr>
+</table>
+
+---
+
+# 📊 Developer Dashboard
 
 ```text
 SYSTEM STATUS
 
 🟢 ONLINE
 
-Python      █████████░ 90%
-HTML        ████████░░ 80%
-CSS         ███████░░░ 70%
-JavaScript  ██████░░░░ 60%
+Learning Progress
+████████░░ 80%
 
-MISSION: Build • Learn • Improve 🚀
+Project Building
+███████░░░ 70%
+
+Problem Solving
+████████░░ 80%
 ```
 
 ---
 
-## 🚀 Current Goals
+# 🚀 Projects
 
-- 🐍 Master Python
-- 🌐 Build Modern Websites
-- ⚡ Learn Advanced JavaScript
-- 📂 Create Open Source Projects
-- ⭐ Grow as a Developer
+### 🏧 ATM Management System
+A Python-based ATM simulator.
+
+### 🌐 Personal Portfolio Website
+Built with HTML and CSS.
+
+### 📚 More Projects Coming Soon...
+Always learning and creating.
 
 ---
 
-## 💭 Developer Mindset
+# 🏆 Achievements
 
-```python
-class Atiksh:
+- 🎯 Started programming journey
+- 🐍 Learned Python fundamentals
+- 🌐 Built web pages with HTML & CSS
+- ⚡ Started learning JavaScript
 
-    def __init__(self):
-        self.role = "Student Developer"
-        self.skills = ["Python", "HTML", "CSS", "JavaScript"]
+---
 
-    def motto(self):
-        return "Turning ideas into code."
-```
+# 🎯 Future Goals
+
+- Learn advanced JavaScript
+- Build full-stack web applications
+- Contribute to open-source projects
+- Create useful software for people
+
+---
+
+# 📬 Contact
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile!
+## ⭐ Thanks for Visiting!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=for-the-badge" />
+"Turning ideas into code, one commit at a time."
 
 </div>
