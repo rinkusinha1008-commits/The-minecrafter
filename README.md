@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # 👋 Hey, I'm Atiksh
@@ -13,7 +15,7 @@
 # 📑 Navigation
 
 - [👨‍💻 About Me](#-about-me)
-- [🛠️ Skills](#️-skills)
+- [🛠️ Tech Stack](#️-tech-stack)
 - [📊 Developer Dashboard](#-developer-dashboard)
 - [🚀 Projects](#-projects)
 - [🏆 Achievements](#-achievements)
@@ -33,29 +35,102 @@ Hello! I'm **Atiksh**, a student developer passionate about coding and technolog
 
 ---
 
-# 🛠️ Skills
+# 🛠️ Tech Stack
 
-<table>
-<tr>
-<td>Python 🐍</td>
-<td>⭐⭐⭐⭐☆</td>
-</tr>
-<tr>
-<td>HTML 🌐</td>
-<td>⭐⭐⭐⭐☆</td>
-</tr>
-<tr>
-<td>CSS 🎨</td>
-<td>⭐⭐⭐☆☆</td>
-</tr>
-<tr>
-<td>JavaScript ⚡</td>
-<td>⭐⭐⭐☆☆</td>
-</tr>
-</table>
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+<br>
+
+| Technology | Level |
+|------------|--------|
+| 🐍 Python | ⭐⭐⭐⭐☆ |
+| 🌐 HTML | ⭐⭐⭐⭐☆ |
+| 🎨 CSS | ⭐⭐⭐☆☆ |
+| ⚡ JavaScript | ⭐⭐⭐☆☆ |
 
 ---
 
+# 📊 Developer Dashboard
+
+```text
+SYSTEM STATUS
+
+🟢 ONLINE
+
+Learning Progress
+████████░░ 80%
+
+Project Building
+███████░░░ 70%
+
+Problem Solving
+████████░░ 80%
+
+MISSION: Become a Full-Stack Developer 🚀
+```
+
+---
+
+# 🚀 Projects
+
+### 🏧 ATM Management System
+A Python-based ATM simulator with account management features.
+
+### 🌐 Personal Portfolio Website
+Built using HTML and CSS.
+
+### 📚 More Projects Coming Soon...
+Always learning and creating.
+
+---
+
+# 🏆 Achievements
+
+- 🎯 Started programming journey
+- 🐍 Learned Python fundamentals
+- 🌐 Built web pages with HTML & CSS
+- ⚡ Started learning JavaScript
+- 🚀 Published projects on GitHub
+
+---
+
+# 🎯 Future Goals
+
+- Learn advanced JavaScript
+- Master Python
+- Build full-stack web applications
+- Contribute to open-source projects
+- Create useful software for people
+
+---
+
+# 📬 Contact
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+### "Turning ideas into code, one commit at a time."
+
+</div>
 # 📊 Developer Dashboard
 
 ```text
